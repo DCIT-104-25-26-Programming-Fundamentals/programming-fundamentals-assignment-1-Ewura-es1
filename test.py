@@ -1,0 +1,1 @@
+print( "Testing in the terminal")
